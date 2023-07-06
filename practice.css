@@ -1,0 +1,51 @@
+*{margin: 0px;
+padding: 0px;}
+.menu-container{
+    background-color: #1e1e1e;
+    padding: 10px 50px;
+    color: aliceblue;
+    display: flex;
+    list-style: none; 
+    align-items: center;
+   justify-content:space-around;
+}
+.menus{
+    display: flex;
+    
+}
+.menus-contact{margin: 15px;
+font-size: 18px;}
+.logo{
+ margin-left:-20%;
+}
+.menus-contact:hover{
+    color: #b4afaf;
+    cursor: pointer;
+}
+.banner{display: flex;
+background-image: url('download.jfif') ;
+
+color: aliceblue;
+align-items: center;
+justify-content: space-around;
+height: 100vh;
+padding: 50px;}
+.bannertext{padding-left: 20px;}
+.button{
+    height: 40px;
+    width: 100px;
+    border: none;
+    
+    background-color: #e00e4a;
+    cursor: pointer;
+    color: aliceblue; 
+}
+.button:hover{background-color: #ce066a;}
+.aboutimg{background-color: white;}
+.img-and-text{
+    display: flex;
+    
+    align-items:center;
+     justify-content: space-around;
+     flex-direction: row-reverse;
+}
