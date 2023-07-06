@@ -54,7 +54,7 @@ padding: 50px;}
     box-shadow:10px 10px 300px white ;
     
     width: 200px;
-    padding: 30px;
+    padding: 20px;
     
 }
 .survice{background-image: url('Slate-Texture-BW-Background.jpg');
@@ -63,3 +63,9 @@ color: antiquewhite;}
     align-items: center;
    justify-content:space-around;
 }
+.btn1{
+    background-color: transparent;
+    border: 1px solid #7c8083;
+}
+.btn1:hover{background-color: #7c80831d;
+border: 1px solid #7c80833d;}
