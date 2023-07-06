@@ -36,11 +36,11 @@ padding: 50px;}
     width: 100px;
     border: none;
     
-    background-color: #e00e4a;
+    background-color: #1b8eec;
     cursor: pointer;
     color: aliceblue; 
 }
-.button:hover{background-color: #ce066a;}
+.button:hover{background-color: #ef436e;}
 .aboutimg{background-color: white;}
 .img-and-text{
     display: flex;
@@ -48,4 +48,18 @@ padding: 50px;}
     align-items:center;
      justify-content: space-around;
      flex-direction: row-reverse;
+}
+.container1{
+   
+    box-shadow:10px 10px 300px white ;
+    
+    width: 200px;
+    padding: 30px;
+    
+}
+.survice{background-image: url('Slate-Texture-BW-Background.jpg');
+color: antiquewhite;}
+.survice-container{display: flex;
+    align-items: center;
+   justify-content:space-around;
 }
